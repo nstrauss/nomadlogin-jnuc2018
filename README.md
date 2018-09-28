@@ -1,5 +1,6 @@
 # Stop Binding Your Macs and Use NoMAD Login JNUC 2018
 Resources and code for JNUC 2018 presentation 'Stop Binding Your Macs and Use NoMAD Login'
+https://www.jamf.com/events/jamf-nation-user-conference/2018/sessions/
 
 Apple developer documentation for login window plugins
 https://developer.apple.com/documentation/security/authorization_plug_ins/using_authorization_plug_ins
