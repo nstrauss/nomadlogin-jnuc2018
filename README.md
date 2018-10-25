@@ -8,6 +8,9 @@ https://developer.apple.com/documentation/security/authorization_plug_ins/using_
 NoMAD Login AD
 https://gitlab.com/orchardandgrove-oss/NoMADLogin-AD
 
+NoMAD Login AD Preferences Reference
+https://gitlab.com/orchardandgrove-oss/NoMADLogin-AD/wikis/Configuration/preferences
+
 Explanation of Mac account types 
 https://nomad.menu/2018/02/14/users-accounts-and-you/
 
